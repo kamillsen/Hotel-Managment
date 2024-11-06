@@ -48,3 +48,6 @@ semih01 - 123456aA*
 Referance Loop Handling
 services.AddControllers().AddNewtonsoftJson(options =>
             options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
+
+
+projeyi github a gönder.
