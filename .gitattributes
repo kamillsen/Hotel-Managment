@@ -1,0 +1,5 @@
+Frontend/** linguist-vendored
+*.js linguist-vendored
+*.css linguist-vendored
+*.html linguist-vendored
+*.scss linguist-vendored
